@@ -1,0 +1,49 @@
+#barra {
+    background-color: teal;
+}
+
+#fenatrano {
+    font-family: italic;
+    font-size: 2em;
+    text-align: cursive;
+}
+
+body {
+    background: lightblue;
+}
+
+.container {
+    font-family: bold;
+    font-size: 1.5em;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 1em;
+    text-align: justify;
+    color: rgb(8, 8, 8)
+}
+
+.card {
+    background-color: rgba(23, 23, 24, 0.425);
+    border-radius: 20px;
+}
+
+hr {
+    border-color: turquoise;
+    border-width: 10px;
+    border-style: groove;
+    border-radius: 8px;
+}
+
+h5 {
+    font-family: fantasy;
+    font-size: 20px;
+    text-align: justify;
+    background-color: lightcoral;
+    border-radius: 12px;
+}
+
+a {
+    color: white;
+}
